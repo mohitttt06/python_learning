@@ -11,3 +11,5 @@ DAY-3 - Type Conversion and Casting
 DAY-3 - Input Statement
 
 DAY-4 - Conditional Statements
+
+DAY-5 - Simple Calculator using if-elif ladder
