@@ -1,4 +1,4 @@
-# Python for ML 🐍
+# Python for ML
 
 DAY-1 - Variables
 
@@ -13,3 +13,7 @@ DAY-3 - Input Statement
 DAY-4 - Conditional Statements
 
 DAY-5 - Simple Calculator using if-elif ladder
+
+DAY-6 - Loops
+
+DAY-7 - Functions
